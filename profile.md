@@ -1,5 +1,5 @@
 # My profile
 
-Name: 
-Occupation: 
+Name: Michael
+Occupation: Developer
 Favourite coding language ever: 
